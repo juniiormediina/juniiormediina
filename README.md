@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🟣 [*Streamer*](https://)
 -->
 
-<img width=100 align="right" src="https://github.com/juniiormediina/juniiormediina/blob/main/img/junior-medina.png" />
+<img width=190 align="right" src="https://github.com/juniiormediina/juniiormediina/blob/main/img/junior-medina.png" />
 
 ## Hi, I'm Junior 👋
 
@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 
 ```js
 const juniiormediina = {
-  description:
-    "I'm a full stack web developer with knowledge in HTML5, CSS3, Javascript and React.js. I love the web development and enjoy every project I work on, there's something new to learn every day. I like working on teams that are creative and have initiative.",
+  description: `I'm a full stack web developer with knowledge in HTML5, CSS3, Javascript and React.js. I love the web development and enjoy every project I work on, there's something new to learn every day. I like working on teams that are creative and have initiative.`,
   skills: [
     "React",
     "Node.js",
