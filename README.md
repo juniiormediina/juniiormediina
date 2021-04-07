@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 📙 *Author of [Aprendiendo JavaScript](https://)*
 - 🎬 [*Tech/EduTuber*](https://)
 - 🟣 [*Streamer*](https://)
--->
 
 <img width=160 align="right" src="https://github.com/juniiormediina/juniiormediina/blob/main/img/junior-medina.png" />
+-->
+
+
 
 ## Hi, I'm Junior 👋
 
