@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - 🟣 [*Streamer*](https://)
 -->
 
-<img width=190 align="right" src="https://github.com/juniiormediina/juniiormediina/blob/main/img/junior-medina.png" />
+<img width=100 align="right" src="https://github.com/juniiormediina/juniiormediina/blob/main/img/junior-medina.png" />
 
 ## Hi, I'm Junior 👋
 
+- 😄 Pronouns: he/him
 - 👨🏻‍💻 _Fullstack JavaScript Developer_
 - 📫 How to reach me: juniiormediina@gmail.com
 
