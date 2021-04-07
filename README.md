@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🟣 [*Streamer*](https://)
 -->
 
-<img width=190 align="right" src="https://github.com/juniiormediina/juniiormediina/blob/main/img/junior-medina.png" />
+<img width=150 align="right" src="https://github.com/juniiormediina/juniiormediina/blob/main/img/junior-medina.png" />
 
 ## Hi, I'm Junior 👋
 
