@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 ```js
 const juniiormediina = {
-  description: `I'm a full stack web developer with knowledge in HTML5, CSS3, Javascript and React.js. 
+  description: "I'm a full stack web developer with knowledge in HTML5, CSS3, Javascript and React.js. 
   I love the web development and enjoy every project I work on, there's something new to learn every day. 
-  I like working on teams that are creative and have initiative.`,
+  I like working on teams that are creative and have initiative.",
   skills: [
     "React",
     "Node.js",
