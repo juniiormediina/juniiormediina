@@ -11,27 +11,39 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🏅 *[Google Developer Expert](https://)
+- 📙 *Author of [Aprendiendo JavaScript](https://)*
+- 🎬 [*Tech/EduTuber*](https://)
+- 🟣 [*Streamer*](https://)
 -->
 
+<img width=190 align="right" src="" />
 
-### Hi there 👋, my name is Junior
-#### I am a Front-End Developer
-![I am a Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## Hi, I'm Junior 👋
 
-I know HTML5, CSS3, Javascript and React.js. I love the web development and enjoy every project I work on; there's something new to learn every day. I like working on teams that are creative and have initiative.
+- 👨🏻‍💻 _Fullstack JavaScript Developer_
+- 📫 How to reach me: juniiormediina@gmail.com
 
-Skills: REACT / NODE / SASS / BOOTSTRAP / TAILWIND / JS / HTML / CSS
+## About me...
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning this page. 
-- 👯 I’m looking to collaborate on this page. 
-- 🤔 I’m looking for help with this page. 
-- 💬 Ask me about this page. 
-- 📫 How to reach me: this page. 
-- 😄 Pronouns: this page. 
-- ⚡ Fun fact: this page. 
+```js
+const juniiormediina = {
+  description:
+    "I'm a full stack web developer with knowledge in HTML5, CSS3, Javascript and React.js. I love the web development and enjoy every project I work on, there's something new to learn every day. I like working on teams that are creative and have initiative.",
+  skills: [
+    "React",
+    "Node.js",
+    "Next.js",
+    "MySql",
+    "Firebase",
+    "Sass",
+    "Tailwind",
+    "Bootstrap",
+    "JavaScript",
+    "HTML",
+    "CSS",
+  ],
+};
+```
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juniiormediina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juniorhmedinab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-junior-medina.vercel.app/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniiormediina)](https://github.com/anuraghazra/github-readme-stats)
+---
