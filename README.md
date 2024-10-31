@@ -1,53 +1,24 @@
-<!--
-**juniiormediina/juniiormediina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🏅 *[Google Developer Expert](https://)
-- 📙 *Author of [Aprendiendo JavaScript](https://)*
-- 🎬 [*Tech/EduTuber*](https://)
-- 🟣 [*Streamer*](https://)
-
-<img width=160 align="right" src="https://github.com/juniiormediina/juniiormediina/blob/main/img/junior-medina.png" />
--->
-
-
-
-## Hi, I'm Junior 👋
+## Hello, I'm Junior 👋
 
 - 😄 Pronouns: he/him
-- 👨🏻‍💻 _Fullstack JavaScript Developer_
-- 📫 How to reach me: juniiormediina@gmail.com
-
-## About me...
-
-```js
-const juniiormediina = {
-  description: "I'm a full stack web developer with knowledge in HTML5, CSS3, Javascript and React.js. 
-  I love the web development and enjoy every project I work on, there's something new to learn every day. 
-  I like working on teams that are creative and have initiative.",
-  skills: [
-    "React",
-    "Node.js",
-    "Next.js",
-    "MySql",
-    "Firebase",
-    "Sass",
-    "Tailwind",
-    "Bootstrap",
-    "JavaScript",
-    "HTML",
-    "CSS",
-  ],
-};
-```
+- 👨🏻‍💻 _Fullstack Developer_
+- 📫 Reach me at: [Your Email](mailto:juniiormediina@gmail.com)
 
 ---
+
+## About Me
+
+I am a dedicated Full Stack Developer with extensive experience in creating dynamic and responsive web applications, including enterprise-level solutions. My technical expertise encompasses Angular, Flutter, Spring Boot, and AWS, allowing me to deliver high-quality user experiences. I thrive in collaborative environments that foster creativity and innovation, and I am continuously seeking opportunities for personal and professional growth, with a proven track record of successful project deliveries.
+
+### Skills
+- **Frontend**: Angular, React, Next.js, HTML5, CSS3, JavaScript, Sass, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Java, MySQL, Firebase
+- **Cloud Services**: AWS
+- **Mobile Development**: Flutter
+- **Other**: Git, RESTful APIs
+
+### Interests
+- Open-source contributions
+- Web performance optimization
+- Accessibility in web design
+- Continuous learning and development
