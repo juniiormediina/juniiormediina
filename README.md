@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: he/him
 - 👨🏻‍💻 _Fullstack Developer_
-- 📫 Reach me at: [Your Email](mailto:juniiormediina@gmail.com)
+- 📫 Reach me at: [Email](mailto:juniiormediina@gmail.com)
 
 ---
 
