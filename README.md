@@ -1,28 +1,21 @@
-## Junior Medina 🚀
+# Hi, I'm Junior Medina 👋
 
-<!--- 🔭 I’m currently working on creating Open Sources projects to learning -->
-- 🧪 I'm currently learning native iOS app development
-- 👨🏻‍💻 Ask me about Switf, Flutter, Angular, and Micro Front-ends -->
-- 📫 Reach me at: [juniiormediina@gmail.com](mailto:juniiormediina@gmail.com)
-- 🌍 My website: https://portfolio-junior-medina.vercel.app/
+**Software Engineer** from Colombia 🇨🇴 with **6 years of experience** building web and mobile products in **enterprise environments**.
 
----
+I work across web and mobile with **Angular, React and Flutter**, and I have hands-on experience with **micro-frontend architectures** and **AWS** in enterprise projects. I care about clean architecture, design systems and UI code that stays maintainable as products and teams grow.
 
-## About Me
+## 🛠️ Tech stack
 
-I am a dedicated Full Stack Developer with extensive experience in creating dynamic and responsive web applications, including enterprise-level solutions. My technical expertise encompasses Angular, Flutter, Node.js, and AWS, allowing me to deliver high-quality user experiences. I thrive in collaborative environments that foster creativity and innovation, and I am continuously seeking opportunities for personal and professional growth, with a proven track record of successful project deliveries.
+- **Web:** Angular · React · Next.js · TypeScript · Micro-frontends · Tailwind CSS · Sass
+- **Mobile:** Flutter · Dart · BLoC · Provider · Firebase
+- **Backend:** Node.js · NestJS · Java · Spring Boot · MySQL
+- **Cloud:** AWS
+- **Practices:** Clean Architecture · Design Systems · Testing · REST APIs · Git
 
-### Skills
+## 🌱 Currently learning
 
-- **Frontend**: Angular, React, Next.js, HTML5, CSS3, JavaScript, Sass, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Java, MySQL, Firebase
-- **Cloud Services**: AWS
-- **Mobile Development**: Flutter
-- **Other**: Git, RESTful APIs
+Native iOS development with Swift.
 
-### Interests
+## 📫 Contact
 
-- Open-source contributions
-- Web and Mobile performance optimization
-- Accessibility in web and mobile designs
-- Continuous learning and development
+[Portfolio](https://portfolio-junior-medina.vercel.app/) · juniiormediina@gmail.com
